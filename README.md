@@ -2,6 +2,8 @@
 
 Welcome to the Embedded Systems Laboratory! This repository contains the documentation for various lab experiments related to embedded systems. Each experiment is accompanied by a simulator to facilitate the learning process. Below is the list of 10 lab experiments:
 
+![Embaded_Lab_Questions](https://github.com/githubhosting/ES-Lab/assets/71520844/b353c874-6444-4bca-a3a1-e7e6edc1f2af)
+
 1. **Experiment 1: LED Blink**
    - [Link to Experiment 1 Simulator](https://www.tinkercad.com/things/hUiMUonrcbe-es-1?sharecode=8QxjU5kCWjWiQihz8WhbTdAvpoaIiDRmd_XwlQ2vLAQ)
 
@@ -19,6 +21,16 @@ Welcome to the Embedded Systems Laboratory! This repository contains the documen
 
 6. **Experiment 6: DHT11 Sensor**
    - [Link to Experiment 6 Simulator](https://wokwi.com/projects/370418925633128449)
+  
+7. **Experiment 7: PIR**
+   - [~~Link to Experiment 7 Simulator~~](#)
 
-7. **Experiment 7: LM35**
-   - [Link to Experiment 7 Simulator](https://www.tinkercad.com/things/6Z0Z1Z1QZ0Q?sharecode=6QX6QZ3QZ0Q)
+8. **Experiment 8: LM35**
+   - [Link to Experiment 8 Simulator](https://www.tinkercad.com/things/6Z0Z1Z1QZ0Q?sharecode=6QX6QZ3QZ0Q)
+
+9. **Experiment 9: LED + ESP8266 Node MCU**
+   - [~~Link to Experiment 9 Simulator~~](#)
+
+10. **Experiment 10: DHT11 + ESP8266 Node MCU**
+   - [~~Link to Experiment 10 Simulator~~](#)
+
